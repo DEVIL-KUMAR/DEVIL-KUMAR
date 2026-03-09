@@ -8,7 +8,7 @@
   <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40">
 </h3>
 
-<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-1.svg">
+<img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </p>
 
