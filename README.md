@@ -3,9 +3,9 @@
   <img src="https://img.shields.io/badge/PROGRAMMER-orange?style=flat-square&labelColor=FF8C00&color=FF8C00">
   
 <h3 align="center">
-  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40">
     𝐃𝐄𝐕𝐈𝐋
-  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/768b108d-274f-4f44-a634-8477b16efce7.gif" width="40">
+  <img src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/anim/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="40">
 </h3>
 
 <img align="center" alt="line" src="https://github.com/DEVIL-5005/DEVIL-5005/blob/main/assets/images/line-1.svg">
